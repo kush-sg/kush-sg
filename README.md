@@ -1,3 +1,5 @@
+![logo](https://github.com/kush-sg/kush-sg/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
 <h3 align="center">A passionate data Analyst from INDIA</h3>
 
