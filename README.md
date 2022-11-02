@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I'm shy, please come say "Hi"**
 
+<h3 align="left">Exclusive Website:</h3>
+<p align="left">
+<a href="https://kushsharma.in/" target="blank"><img align="center" src="https://www.eatlogos.com/alphabet_logos/png/vector_brush_k_logo.png" height="40" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kbull007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kbull007/" height="30" width="40" /></a>
