@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
 <h3 align="center">A passionate data Analyst from INDIA</h3>
 
-![ezgif-2-b2c3d874e3](https://user-images.githubusercontent.com/109681885/199405563-eb2e40a9-7cc2-4633-aa8f-aed314c7f968.gif)
-
-
+<img align="right" width="400" src="https://user-images.githubusercontent.com/109681885/199405563-eb2e40a9-7cc2-4633-aa8f-aed314c7f968.gif">
 
 - 🔭 I’m currently working on **Credit Risk Analysis**
 
