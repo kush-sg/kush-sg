@@ -1,11 +1,30 @@
-# HI, I'm Kushagra Sharma
-***
+<h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
+<h3 align="center">A passionate data Analyst from INDIA</h3>
 
-![Main](https://giphy.com/gifs/marketing-marketingagency-peakydigital-dtB7kgF86VwZWY5Iee)
+<img aligh="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/109681885/199404607-b45e59b4-2dc2-4555-bcd4-93eadf50be3d.png)
+">
 
+- 🔭 I’m currently working on **Credit Risk Analysis**
 
-> 🔭 I’m working on ... to be a good `#RRGGBB` "DATA SCIENTIST".
-- 🌱 I’m presently learning ... How to be a good "MORTAL".
-- 💬 I'm interested in ... Learning and Exploring different fields Of "Finance - with Data Science".
-- 📬 How to reach me ... Let's connect on LINKEDIN https://www.linkedin.com/in/kbull007
-- ⚡ Fun fact ... I'm shy, please come say "Hi"
+- 🌱 I’m currently learning **, How to deal with Machines through ML Models**
+
+- 👨‍💻 All of my projects are available at [https://github.com/kush-sg](https://github.com/kush-sg)
+
+- 📝 I regularly write articles on [https://kushagrasharma-sg.medium.com/](https://kushagrasharma-sg.medium.com/)
+
+- 💬 Ask me about **Data, Stats, Visualization, Python, Machine-Learning**
+
+- 📫 How to reach me **sharmakushagra.sg@gmail.com**
+
+- ⚡ Fun fact **I'm shy, please come say "Hi"**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kbull007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kbull007/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kushsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kushsg" height="30" width="40" /></a>
+<a href="https://medium.com/@kushagrasharma-sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kushagrasharma-sg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/kushagrasharma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kushagrasharma14" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
